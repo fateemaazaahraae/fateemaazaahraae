@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm FATIMA ZAHRAE BAZAZ</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-- 🔭 I’m currently working on [minishell](https://cdn.intra.42.fr/pdf/pdf/65357/en.subject.pdf)
+- 🔭 I’m currently working on [Cub3d](https://cdn.intra.42.fr/pdf/pdf/109752/en.subject.pdf)
 
-- 🌱 I’m currently learning **web development (HTML, CSS and JavaScript)**
+- 🌱 I’m currently learning **JavaScript and Tailwind**
 
-- 💬 Ask me about **C, Shell**
+- 💬 Ask me about **C, Shell, HTML and CSS**
 
 - 📫 How to reach me **fatimazahraebazaz1@gmail.com**
 
