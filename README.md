@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript and Tailwind**
 
-- 💬 Ask me about **C, Shell, HTML and CSS**
+- 💬 Ask me about **C, C++, UX/UI Design, Shell, HTML and CSS**
 
 - 📫 How to reach me **fatimazahraebazaz1@gmail.com**
 
