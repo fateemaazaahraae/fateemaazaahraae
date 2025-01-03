@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Cub3D<br>👯 I’m looking to collaborate on Front-end projects<br>🌱 I’m currently learning front-end tools and ux/ui design<br>💬 Ask me about C, C++, HTML, CSS and Figma
-![](https://badge.mediaplus.ma/darkblue/fbazaz)
 
+![](https://badge.mediaplus.ma/darkblue/fbazaz)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fatima Zahrae Bazaz) 
 
